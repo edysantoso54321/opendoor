@@ -1,0 +1,8 @@
+.idea/
+/tmp/
+/reports/
+/syslog/
+/build/
+.coverage
+*__pycache__/**
+*.pyc
